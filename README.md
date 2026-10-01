@@ -13,6 +13,8 @@ flatmark converts PDF, Word, PowerPoint, Excel and HTML to Markdown over a REST 
 - **Pricing:** https://flatmark.dev/pricing
 - **Convert a PDF free:** https://flatmark.dev/tools/pdf-to-markdown
 - **llms.txt:** https://flatmark.dev/llms.txt
+- **Privacy policy:** https://flatmark.dev/privacy
+- **Support:** https://flatmark.dev/support
 
 ## MCP server
 
@@ -24,6 +26,8 @@ Claude Code:
 ```sh
 claude mcp add --transport http flatmark https://api.flatmark.dev/mcp/
 ```
+
+Claude Code: `/plugin marketplace add flatmark-dev/flatmark` then `/plugin install flatmark@flatmark` (set `FLATMARK_API_KEY` for your key).
 
 Cursor / Windsurf / Cline / Claude Desktop:
 

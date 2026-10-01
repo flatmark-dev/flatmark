@@ -1,0 +1,1 @@
+{"mcpServers":{"flatmark":{"headers":{"X-API-Key":"${FLATMARK_API_KEY:-}"},"type":"http","url":"https://api.flatmark.dev/mcp/"}}}

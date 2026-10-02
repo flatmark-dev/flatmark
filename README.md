@@ -52,7 +52,7 @@ Cursor / Windsurf / Cline / Claude Desktop:
 
 One-click installs for every client: https://flatmark.dev/connect
 
-**Integrations** (n8n, Zapier, Make, Workato, Dify, SDKs and templates): https://github.com/flatmark-dev/flatmark-integrations
+**Integrations** (n8n, Zapier, Make, Dify, SDKs and templates): https://github.com/flatmark-dev/flatmark-integrations
 
 ## Links
 

@@ -54,6 +54,10 @@ One-click installs for every client: https://flatmark.dev/connect
 
 **Integrations** (n8n, Zapier, Make, Dify, SDKs and templates): https://github.com/flatmark-dev/flatmark-integrations
 
+## Templates
+
+Ready-made workflows: https://flatmark.dev/templates
+
 ## Links
 
 - **Website:** https://flatmark.dev/go/github
